@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://i.imgur.com/your-image-link-here.jpg" alt="Banner de Perfil de Ángel Rostro" width="100%">
+  <img src="Img/FONDO_YO.jpg" alt="Banner de Perfil de Ángel Rostro" width="100%">
   <br>
   </div>
 
