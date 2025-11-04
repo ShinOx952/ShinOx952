@@ -5,6 +5,8 @@
 
 # Hola! Soy José Ángel Rostro Hernández 👋
 
+<img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
+
 ### 👨‍💻 Ingeniero en Nanotecnología y Energías Renovables
 
 Soy Ingeniero con una sólida base como **Técnico en Programación**. Mi valor diferencial es la capacidad de **fusionar el análisis de ingeniería física** (materiales, termodinámica, semiconductores) **con el desarrollo de software** para resolver desafíos complejos en **Electrónica de Potencia y Sistemas de Control**.
