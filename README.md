@@ -61,5 +61,5 @@ Estos proyectos demuestran mis capacidades clave en el ciclo de diseño, simulac
 ## 🔗 Conecta Conmigo
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/angel-rostro/)
-[![Instagram](https://img.shields.io/badge/-Adityakanoi123-E4405F?style=flat&logo=Instagram&logoColor=white)](https://www.instagram.com/angel_952x/)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/angel_952x/)
 [![Correo Electrónico](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jose.angel.rostro.hernandez@gmail.com)
