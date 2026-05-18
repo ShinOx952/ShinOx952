@@ -27,6 +27,10 @@ Estos proyectos demuestran mis capacidades clave en el ciclo de diseño, simulac
 * **Temas Cubiertos:** Reguladores de voltaje, etapas de filtrado, diseño de pistas para alta corriente y modelado 3D de componentes.
 * **Enlace al Repositorio:** [Ver Proyecto Completo aquí](https://github.com/ShinOx952/Fuente_Poder_V2)
 
+### 💡 Diseño de Hardware: Driver de Semiconductor de Potencia (Altium)
+* **Habilidad Central:** Dominio de **Altium Designer** para el **Diseño de PCBs** de alta fiabilidad. Aplicación de reglas de diseño avanzadas para sistemas de potencia (ruteo, aislamiento galvánico) conforme a normativas **IPC**.
+* **Enlace al Repositorio:** **[Ver Proyecto Completo aquí](https://github.com/ShinOx952/PCB-Driver)**
+
 ### ⚡ Convertidores DC/DC: Análisis y Validación de Potencia (PSIM & Hardware)
 * **Habilidad Central:** Experiencia práctica en la **Validación de Hardware** (Buck) contra la **Simulación Teórica** (Buck/Boost). Uso experto de **PSIM** y de **Osciloscopio** para medir señales de conmutación en MOSFETs de alto voltaje.
 * **Temas Cubiertos:** Regulador Reductor (Buck), Regulador Elevador (Boost), Opto Drivers, Circuitos de Conmutación.
@@ -36,10 +40,6 @@ Estos proyectos demuestran mis capacidades clave en el ciclo de diseño, simulac
 * **Habilidad Central:** Dominio del entorno **MATLAB** para el **Modelado de Sistemas de Control** y el análisis de la respuesta en frecuencia (Ganancia y Fase). Capacidad de **Validar Experimentos** (Filtro RC) y comparar resultados reales vs. curvas de simulación.
 * **Temas Cubiertos:** Funciones de Transferencia, Análisis de Ganancia y Fase (Bode), Filtros RC y LR.
 * **Enlace al Repositorio:** **[Ver Proyecto Completo aquí](https://github.com/ShinOx952/MATLAB_FILTROS_PASIVOS_CONTROL)**
-
-### 💡 Diseño de Hardware: Driver de Semiconductor de Potencia (Altium)
-* **Habilidad Central:** Dominio de **Altium Designer** para el **Diseño de PCBs** de alta fiabilidad. Aplicación de reglas de diseño avanzadas para sistemas de potencia (ruteo, aislamiento galvánico) conforme a normativas **IPC**.
-* **Enlace al Repositorio:** **[Ver Proyecto Completo aquí](https://github.com/ShinOx952/PCB-Driver)**
 
 ---
 
