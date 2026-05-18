@@ -21,6 +21,12 @@ Actualmente busco activamente oportunidades en Ingeniería de Pruebas y Validaci
 
 Estos proyectos demuestran mis capacidades clave en el ciclo de diseño, simulación y validación de sistemas electrónicos de potencia y control:
 
+### ⚡ Fuente de Poder V2 (Altium Designer & Hardware)
+
+* **Habilidad Central:** Diseño profesional de placas de circuito impreso (PCB) bajo estándares IPC, gestión de esquemáticos multih hoja, selección de componentes y optimización de rutas.
+* **Temas Cubiertos:** Reguladores de voltaje, etapas de filtrado, diseño de pistas para alta corriente y modelado 3D de componentes.
+* **Enlace al Repositorio:** [Ver Proyecto Completo aquí](https://github.com/ShinOx952/Fuente_Poder_V2)
+
 ### ⚡ Convertidores DC/DC: Análisis y Validación de Potencia (PSIM & Hardware)
 * **Habilidad Central:** Experiencia práctica en la **Validación de Hardware** (Buck) contra la **Simulación Teórica** (Buck/Boost). Uso experto de **PSIM** y de **Osciloscopio** para medir señales de conmutación en MOSFETs de alto voltaje.
 * **Temas Cubiertos:** Regulador Reductor (Buck), Regulador Elevador (Boost), Opto Drivers, Circuitos de Conmutación.
@@ -41,7 +47,7 @@ Estos proyectos demuestran mis capacidades clave en el ciclo de diseño, simulac
 
 | Categoría | Herramientas Clave |
 | :--- | :--- |
-| **Simulación / Análisis** | **MATLAB**, **PSIM**, **COMSOL Multiphysics**, PVSyst, Simulación de Células de 4 Parámetros. |
+| **Simulación / Análisis** | **MATLAB**, **PSIM**, **COMSOL Multiphysics**, PVSyst, Simulación de Celdas de 4 Parámetros. |
 | **Electrónica / Diseño** | **Altium Designer**, Osciloscopio (Sondas Diferenciales), Multímetro de Precisión, Cámaras Termográficas (FLIR Tools), Electrómetro (Keithley), Análisis de Datasheets. |
 | **Programación** | **C++**, **Python**, Java, MySQL, Git/GitHub, VS Studio Code. (Certificado Técnico en Programación) |
 | **Ingeniería Física** | Espectroscopía Raman/FTIR, SEM/TEM/XRD (conocimiento teórico), Termodinámica, Materiales Semiconductores. |
