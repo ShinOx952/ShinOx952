@@ -27,7 +27,7 @@ Estos proyectos demuestran mis capacidades clave en el ciclo de diseño, simulac
 * **Temas Cubiertos:** Reguladores de voltaje, etapas de filtrado, diseño de pistas para alta corriente y modelado 3D de componentes.
 * **Enlace al Repositorio:** [Ver Proyecto Completo aquí](https://github.com/ShinOx952/Fuente_Poder_V2)
 
-### ⚡ Estudio, Análisis Térmico y Optimización de Microinversores Fotovoltaicos (Tesis)
+### ⚡ Estudio, Análisis Térmico en Microinversores Fotovoltaicos (Tesis)
 
 * **Habilidad Central:** Codiseño de hardware y validación mediante simulación multifísica y de circuitos para la gestión térmica óptima de etapas de potencia.
 * **Temas Cubiertos:** Análisis de pérdidas por conmutación en topologías de Puente H, diseño de esquemáticos, layouts y consideraciones de Stack-Up en Altium Designer, simulación térmica FEM y contraste experimental mediante termografía infrarroja (FLIR Tools).
