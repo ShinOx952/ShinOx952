@@ -21,7 +21,7 @@ Actualmente busco activamente oportunidades en Ingeniería de Pruebas y Validaci
 
 Estos proyectos demuestran mis capacidades clave en el ciclo de diseño, simulación y validación de sistemas electrónicos de potencia y control:
 
-### ⚡ Fuente de Poder V2 (Altium Designer & Hardware)
+### ⚡ Fuente de Alimentación (Altium Designer & Hardware)
 
 * **Habilidad Central:** Diseño profesional de placas de circuito impreso (PCB) bajo estándares IPC, gestión de esquemáticos multih hoja, selección de componentes y optimización de rutas.
 * **Temas Cubiertos:** Reguladores de voltaje, etapas de filtrado, diseño de pistas para alta corriente y modelado 3D de componentes.
