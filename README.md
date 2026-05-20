@@ -33,7 +33,7 @@ Estos proyectos demuestran mis capacidades clave en el ciclo de diseño, simulac
 * **Temas Cubiertos:** Análisis de pérdidas por conmutación en topologías de Puente H, diseño de esquemáticos, layouts y consideraciones de Stack-Up en Altium Designer, simulación térmica FEM y contraste experimental mediante termografía infrarroja (FLIR Tools).
 * **Enlace al Repositorio:** [Ver Proyecto del Inversor y Simulaciones Aquí](https://github.com/ShinOx952/Inversor_Puente_H)
 
-### 💡 Diseño de Hardware: Driver de Semiconductor de Potencia (Altium)
+### 💡 Driver de Potencia para Transistores (Altium)
 * **Habilidad Central:** Dominio de **Altium Designer** para el **Diseño de PCBs** de alta fiabilidad. Aplicación de reglas de diseño avanzadas para sistemas de potencia (ruteo, aislamiento galvánico) conforme a normativas **IPC**.
 * **Enlace al Repositorio:** **[Ver Proyecto Completo aquí](https://github.com/ShinOx952/PCB-Driver)**
 
